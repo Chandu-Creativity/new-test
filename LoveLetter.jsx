@@ -35,7 +35,7 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        my dear swetha akka🖤,<br />
+        my dear sulthana akka🖤,<br />
         never have i been so blessed as to fall in love with someone as wonderful as you...<br />
         In the cookies of life, sisters are the chocolate chips. 
         Sisters are like snowflakes - each one is unique and beautiful in her own way. 
@@ -47,5 +47,6 @@ const LoveLetter = () => {
     </div>
   );
 };
+
 
 export default LoveLetter;
